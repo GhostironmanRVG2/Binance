@@ -3,4 +3,4 @@
                                                            
        Some data extraction around volume and another data indicators of crypto currency :)
                                                                         
-                                       NOT FINESHED
+                                       NOT FINISHED
